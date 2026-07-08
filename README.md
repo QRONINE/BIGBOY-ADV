@@ -1,7 +1,4 @@
 # BIGBOY-ADV
-A custom Game Boy inspired Console for running retrogames using emulationstation on Retropie , using a Raspberry Pi 3B+ 
-
-# BIGBOY-ADV
 
 <p align="center">
   <img src="docs/images/BMO-FRONT.png" width="47%" alt="BIGBOY-ADV Front CAD Assembly">
